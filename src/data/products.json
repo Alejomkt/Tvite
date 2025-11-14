@@ -1,0 +1,162 @@
+[
+  {
+    "id": "p1",
+    "name": "Camiseta Classic",
+    "description": "Camiseta de algod\u00f3n 100%",
+    "price": 19.99,
+    "image": "https://picsum.photos/seed/p1/600/400",
+    "stock": 10
+  },
+  {
+    "id": "p2",
+    "name": "Sudadera Cozy",
+    "description": "Sudadera con capucha",
+    "price": 39.99,
+    "image": "https://picsum.photos/seed/p2/600/400",
+    "stock": 8
+  },
+  {
+    "id": "p3",
+    "name": "Pantal\u00f3n Slim",
+    "description": "Pantal\u00f3n corte slim",
+    "price": 49.5,
+    "image": "https://picsum.photos/seed/p3/600/400",
+    "stock": 6
+  },
+  {
+    "id": "p4",
+    "name": "Zapatillas Runner",
+    "description": "Calzado deportivo",
+    "price": 69.0,
+    "image": "https://picsum.photos/seed/p4/600/400",
+    "stock": 12
+  },
+  {
+    "id": "p5",
+    "name": "Gorra Base",
+    "description": "Gorra ajustable",
+    "price": 14.25,
+    "image": "https://picsum.photos/seed/p5/600/400",
+    "stock": 20
+  },
+  {
+    "id": "p6",
+    "name": "Mochila Daypack",
+    "description": "Mochila urbana 20L",
+    "price": 59.99,
+    "image": "https://picsum.photos/seed/p6/600/400",
+    "stock": 4
+  },
+  {
+    "id": "p7",
+    "name": "Calcetines Sport",
+    "description": "Pack 3 pares",
+    "price": 9.99,
+    "image": "https://picsum.photos/seed/p7/600/400",
+    "stock": 30
+  },
+  {
+    "id": "p8",
+    "name": "Cintur\u00f3n Leather",
+    "description": "Cintur\u00f3n de cuero",
+    "price": 29.0,
+    "image": "https://picsum.photos/seed/p8/600/400",
+    "stock": 7
+  },
+  {
+    "id": "p9",
+    "name": "Reloj Minimal",
+    "description": "Reloj anal\u00f3gico elegante",
+    "price": 129.99,
+    "image": "https://picsum.photos/seed/p9/600/400",
+    "stock": 5
+  },
+  {
+    "id": "p10",
+    "name": "Auriculares Pro",
+    "description": "Cancelaci\u00f3n de ruido",
+    "price": 149.99,
+    "image": "https://picsum.photos/seed/p10/600/400",
+    "stock": 3
+  },
+  {
+    "id": "p11",
+    "name": "Bolso Tote",
+    "description": "Bolso de lona",
+    "price": 34.5,
+    "image": "https://picsum.photos/seed/p11/600/400",
+    "stock": 11
+  },
+  {
+    "id": "p12",
+    "name": "Lentes UV",
+    "description": "Gafas de sol unisex",
+    "price": 24.99,
+    "image": "https://picsum.photos/seed/p12/600/400",
+    "stock": 14
+  },
+  {
+    "id": "p13",
+    "name": "Camisa Oxford",
+    "description": "Camisa formal",
+    "price": 44.0,
+    "image": "https://picsum.photos/seed/p13/600/400",
+    "stock": 9
+  },
+  {
+    "id": "p14",
+    "name": "Chaqueta Rain",
+    "description": "Chaqueta impermeable",
+    "price": 89.99,
+    "image": "https://picsum.photos/seed/p14/600/400",
+    "stock": 6
+  },
+  {
+    "id": "p15",
+    "name": "Shorts Play",
+    "description": "Shorts deportivos",
+    "price": 22.5,
+    "image": "https://picsum.photos/seed/p15/600/400",
+    "stock": 18
+  },
+  {
+    "id": "p16",
+    "name": "Tapete Yoga",
+    "description": "Tapete antideslizante",
+    "price": 29.99,
+    "image": "https://picsum.photos/seed/p16/600/400",
+    "stock": 10
+  },
+  {
+    "id": "p17",
+    "name": "Botella Steel",
+    "description": "Botella t\u00e9rmica 500ml",
+    "price": 19.0,
+    "image": "https://picsum.photos/seed/p17/600/400",
+    "stock": 25
+  },
+  {
+    "id": "p18",
+    "name": "Auricular Mini",
+    "description": "Inal\u00e1mbricos compactos",
+    "price": 59.99,
+    "image": "https://picsum.photos/seed/p18/600/400",
+    "stock": 9
+  },
+  {
+    "id": "p19",
+    "name": "Cartera Slim",
+    "description": "Cartera minimalista",
+    "price": 27.5,
+    "image": "https://picsum.photos/seed/p19/600/400",
+    "stock": 13
+  },
+  {
+    "id": "p20",
+    "name": "Candado Smart",
+    "description": "Candado con bluetooth",
+    "price": 39.99,
+    "image": "https://picsum.photos/seed/p20/600/400",
+    "stock": 6
+  }
+]
