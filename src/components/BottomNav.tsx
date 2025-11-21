@@ -36,7 +36,7 @@ export default function BottomNav() {
                 <ShoppingCart />
                 {totalItems > 0 && (
                   <span className="absolute -top-1 -right-2 bg-brand text-white text-[10px] w-4 h-4 flex items-center justify-center rounded-full">
-                    {totalItems > 9 ? '9+' : totalItems}
+                    {totalItems > 49 ? '50+' : totalItems}
                   </span>
                 )}
               </div>
