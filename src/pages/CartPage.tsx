@@ -16,7 +16,7 @@ export default function CartPage() {
       <h1 className="text-2xl text-center font-bold mb-4">Carrito</h1>
       <div className="space-y-4">
         {items.map(item => (
-          <div key={item.id} className="bg-white p-4 rounded shadow flex items-center gap-4">
+          <div key={item.id} className="bg-white p-4 rounded shadow flex items-center gap-1">
             <img src={item.image} alt={item.name} className="w-24 h-24 object-cover rounded" />
             <div className="flex-1">
               <h2 className="font-semibold">{item.name}</h2>
