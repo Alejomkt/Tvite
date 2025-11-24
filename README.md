@@ -10,4 +10,4 @@ Proyecto base React + Vite + TypeScript + TailwindCSS con carrito funcional y 20
 2. Ejecuta en modo dev:
    npm run dev
 
-3. Abre http://localhost:5173
+3. Abre en https://alejomkt.github.io/cart
